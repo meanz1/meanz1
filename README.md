@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+hi I'm minji
+
+[![Solved.ac meanz1](http://mazassumnida.wtf/api/v2/generate_badge?boj=meanz1)](https://solved.ac/meanz1)
