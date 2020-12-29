@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 hi I'm minji
 
-[![Solved.ac zndnfjqbd](http://mazassumnida.wtf/api/v2/generate_badge?boj=zndnfjqbd)](https://solved.ac/zndnfjqbd)
+- [![Solved.ac zndnfjqbd](http://mazassumnida.wtf/api/v2/generate_badge?boj=zndnfjqbd)](https://solved.ac/zndnfjqbd)
