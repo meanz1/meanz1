@@ -40,7 +40,7 @@ osx : brew install lolcat
   
 ## 3. bashrc/zshrc + alias, man ..  
 목적 : 터미널을 실행시킬 때 welcome message를 아스키아트로 띄우기
-<img width="567" alt="스크린샷 2021-03-24 오전 3 03 44" src="https://user-images.githubusercontent.com/62049151/112195765-aa273a00-8c4d-11eb-810c-28f63b39d334.png">
+<img width="567" alt="스크린샷 2021-03-24 오전 3 03 44" src="https://user-images.githubusercontent.com/62049151/112195765-aa273a00-8c4d-11eb-810c-28f63b39d334.png">  
 bashrc/zshrc에서 figlet을 사용할 수 있기 때문에 커맨드에 적었던 것과 똑같이 적어주면 된다.  
 그림을 띄우고 싶을 때에는 bashrc/zshrc에서 echo를 통해서 띄워도 되지만 bashrc/zshrc가 지저분해지고, 이스케이프문을 생각해줘야하기 때문에 번거롭다는 단점이 있다.  
 사전에 만든 파일을 cat으로 긁어오자 ! (절대 경로로 설정을 해줘야 자기가 어떤 directory에 위치해있던 제대로 출력할 수 있다.)
@@ -48,11 +48,17 @@ bashrc/zshrc에서 figlet을 사용할 수 있기 때문에 커맨드에 적었�
 <img width="567" alt="스크린샷 2021-03-24 오전 2 54 32" src="https://user-images.githubusercontent.com/62049151/112194487-43ede780-8c4c-11eb-80b1-edb0d752a839.png">  
 
 +추가 ] 
-#### alias  
+### alias  
 shell 문법 중 하나인데, 별칭이라는 뜻을 가지고 있으며 실제로도 별칭 역할을 한다.  
 ```
 alias 단축어="실제 실행시킬 명령어"
 ``` 
 <img width="698" alt="스크린샷 2021-03-24 오전 2 53 59" src="https://user-images.githubusercontent.com/62049151/112194681-7861a380-8c4c-11eb-994e-b304933d1259.png">
-<img width="567" alt="스크린샷 2021-03-24 오전 3 01 18" src="https://user-images.githubusercontent.com/62049151/112195361-384ef080-8c4d-11eb-94f8-095a7f51eae2.png">
+<img width="567" alt="스크린샷 2021-03-24 오전 3 01 18" src="https://user-images.githubusercontent.com/62049151/112195361-384ef080-8c4d-11eb-94f8-095a7f51eae2.png">  
 
+### man  
+manual 이라는 뜻의 command 전용 용어이다.  
+모르는 것이 있을 때 공식적인 사용 방법을 알려주기에 굉장히 유용하게 사용하고 있다.  
+<img width="670" alt="스크린샷 2021-03-24 오전 3 08 10" src="https://user-images.githubusercontent.com/62049151/112196240-2c176300-8c4e-11eb-9ced-88e49d984f67.png">
+
+<img width="670" alt="스크린샷 2021-03-24 오전 3 08 28" src="https://user-images.githubusercontent.com/62049151/112196278-35a0cb00-8c4e-11eb-88cf-2604c002bf46.png">
