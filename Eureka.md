@@ -35,7 +35,7 @@ osx : brew install lolcat
 디렉토리 최상단에 파일 하나를 만들어서(확장자는 없어도 된다. 혹은 shell) 아래 사이트를 참고하여 원하는 그림(아스키 코드로 변환 후) 첨부한다.  
 [참고] (https://wepplication.github.io/tools/charMap/#asciiArt)  
 [참고] (https://www.ascii-art-generator.org/)
-  <img width="698" alt="스크린샷 2021-03-24 오전 2 46 29" src="https://user-images.githubusercontent.com/62049151/112193457-3dab3b80-8c4b-11eb-9597-29e857e0211e.png"> 
+  <img width="698" alt="스크린샷 2021-03-24 오전 2 46 29" src="https://user-images.githubusercontent.com/62049151/112193457-3dab3b80-8c4b-11eb-9597-29e857e0211e.png">   
 [참고 : cowsay] (https://zcqggntwsd.medium.com/%EC%95%84%EC%8A%A4%ED%82%A4-%EC%95%84%ED%8A%B8%EB%A1%9C-%EC%89%98-%EB%A9%94%EC%8B%9C%EC%A7%80-%EA%BE%B8%EB%AF%B8%EA%B8%B0-ce87aebc6afa)  
 <img width="570" alt="스크린샷 2021-03-24 오전 10 32 02" src="https://user-images.githubusercontent.com/62049151/112240714-2cceea00-8c8c-11eb-8269-ef52fe856b0f.png">
 
