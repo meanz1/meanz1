@@ -3,6 +3,10 @@
 2. 그림  
 3. bashrc/zshrc + alias, man
   
+<img width="734" alt="스크린샷 2021-03-24 오전 10 36 38" src="https://user-images.githubusercontent.com/62049151/112241066-e29a3880-8c8c-11eb-9900-b43a49670421.png">
+<img width="734" alt="스크린샷 2021-03-24 오전 10 37 26" src="https://user-images.githubusercontent.com/62049151/112241092-efb72780-8c8c-11eb-96ee-6d504c1a9ae3.png">
+<img width="734" alt="스크린샷 2021-03-24 오전 10 37 51" src="https://user-images.githubusercontent.com/62049151/112241153-0b223280-8c8d-11eb-805c-eeaec1a156f1.png">
+
 ## 1. 문자  
 
 figlet : 입력한 문자를 큰 문자(Fig character)로 터미널에 출력해 주는 툴  
