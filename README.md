@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&fontColor=09324c&color=8bc34a&text=MINJI-!&animation=fadeIn&height=150&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=Waving&fontColor=09324c&color=8bc34a&text=MINJI!&animation=fadeIn&height=150&fontSize=60)
 <br/>
 <h2> 🌳 About Me</h2>
 새로운 변화에 잘 적응하고, 열정적인 시간을 좋아합니다.
